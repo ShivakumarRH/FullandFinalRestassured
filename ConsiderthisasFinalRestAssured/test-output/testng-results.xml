@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21453" started-at="2020-04-10T21:35:28 IST" finished-at="2020-04-10T21:35:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21453" started-at="2020-04-10T21:35:28 IST" finished-at="2020-04-10T21:35:50 IST">
+      <class name="payeezy.datadriven.PostCC_Void">
+        <test-method status="PASS" signature="Post()[pri:0, instance:payeezy.datadriven.PostCC_Void@2f112965]" name="Post" duration-ms="17635" started-at="2020-04-10T21:35:28 IST" finished-at="2020-04-10T21:35:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method status="PASS" signature="sPost()[pri:0, instance:payeezy.datadriven.PostCC_Void@2f112965]" name="sPost" is-config="true" duration-ms="3542" started-at="2020-04-10T21:35:46 IST" finished-at="2020-04-10T21:35:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sPost -->
+      </class> <!-- payeezy.datadriven.PostCC_Void -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

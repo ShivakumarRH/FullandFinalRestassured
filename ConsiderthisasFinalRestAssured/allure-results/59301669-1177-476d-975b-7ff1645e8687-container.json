@@ -1,0 +1,1 @@
+{"uuid":"59301669-1177-476d-975b-7ff1645e8687","name":"TC01_Post_Request_Sample","children":["81625db3-4eef-44b8-b0cf-13e5ba853a57"],"befores":[{"name":"requestBody","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1575091265261,"stop":1575091265807}],"afters":[],"links":[],"start":1575091265234,"stop":1575091273764}
